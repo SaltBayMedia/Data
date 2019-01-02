@@ -1,0 +1,97 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Movie",
+  "url": "/title/tt0099871/",
+  "name": "Jacob\u0027s Ladder",
+  "image": "https://m.media-amazon.com/images/M/MV5BZTg5MTMyNjktNTZhOC00MGFlLWFlMTMtZGU2MjE3OWQ3NjJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "contentRating": "R",
+  "actor": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0000209/",
+      "name": "Tim Robbins"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0001615/",
+      "name": "Elizabeth Peña"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0000732/",
+      "name": "Danny Aiello"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0002023/",
+      "name": "Matt Craven"
+    }
+  ],
+  "director": {
+    "@type": "Person",
+    "url": "/name/nm0001490/",
+    "name": "Adrian Lyne"
+  },
+  "creator": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0748022/",
+      "name": "Bruce Joel Rubin"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0094459/"
+    }
+  ],
+  "description": "Jacob\u0027s Ladder is a movie starring Tim Robbins, Elizabeth Peña, and Danny Aiello. Mourning his dead child, a haunted Vietnam War veteran attempts to uncover his past while suffering from a severe case of dissociation. To do so, he...",
+  "datePublished": "1990-11-02",
+  "keywords": "death,delusion,soldier,memory,hell",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": 88327,
+    "bestRating": "10.0",
+    "worstRating": "1.0",
+    "ratingValue": "7.5"
+  },
+  "review": {
+    "@type": "Review",
+    "itemReviewed": {
+      "@type": "CreativeWork",
+      "url": "/title/tt0099871/"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Idocamstuf"
+    },
+    "dateCreated": "2003-01-15",
+    "inLanguage": "English",
+    "name": "I enjoyed it much more after a second viewing",
+    "reviewBody": "I remember viewing this movie a couple years back and I did not get a lot out of it, I thought it was just too weird. In fact, I even wrote a review of the film on here. I\u0027m glad I gave it another try because I really got a lot more out of it after the second viewing. Maybe it was because my expectations of the film were lower or I have matured in past few years. Anyway, this is a highly fascinating and entertaining thriller about a Vietnam veteran who always feels like there is somebody or something \"out to get him\". He feels this way because he keeps seeing strange images and many people in which he comes in contact with appear to have horns growing out of their heads and whatnot. Him and his war buddies believe that these strange occurrences are the result of something that happened during the war. The best element of this film is its atmosphere and paranormal feel which will really give you the creeps as well as have you guessing what the cause of the strange occurrences that are affecting Jacob really are. Well worth viewing, and if it doesn\u0027t grab you on the first viewing, don\u0027t hesitate to try it again, you may enjoy it more. 8/10.",
+    "reviewRating": {
+      "@type": "Rating",
+      "worstRating": "1",
+      "bestRating": "10",
+      "ratingValue": "8"
+    }
+  },
+  "duration": "PT1H53M",
+  "trailer": {
+    "@type": "VideoObject",
+    "name": "Jacob\u0027s Ladder",
+    "embedUrl": "/video/imdb/vi2761031961",
+    "thumbnail": {
+      "@type": "ImageObject",
+      "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjgyOTI1NDItNTViNS00ZjkzLWE0YTQtNDVjZjE2ZTI4ZTRlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjgyOTI1NDItNTViNS00ZjkzLWE0YTQtNDVjZjE2ZTI4ZTRlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description": "Home Video Trailer from Columbia Tristar",
+    "uploadDate": "2008-04-11T14:48:40Z"
+  }
+}
+
+
