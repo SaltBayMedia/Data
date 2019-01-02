@@ -1,0 +1,87 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Movie",
+  "url": "/title/tt0837563/",
+  "name": "Pet Sematary",
+  "image": "https://m.media-amazon.com/images/M/MV5BMjA2NDc1NDc1Nl5BMl5BanBnXkFtZTgwNDMzNjA1NjM@._V1_.jpg",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "actor": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0001475/",
+      "name": "John Lithgow"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0164809/",
+      "name": "Jason Clarke"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm1541272/",
+      "name": "Amy Seimetz"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm2942174/",
+      "name": "Naomi Frenette"
+    }
+  ],
+  "director": [
+    {
+      "@type": "Person",
+      "url": "/name/nm1556116/",
+      "name": "Kevin Kölsch"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm1552637/",
+      "name": "Dennis Widmyer"
+    }
+  ],
+  "creator": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0000175/",
+      "name": "Stephen King"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm1738734/",
+      "name": "David Kajganich"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm1161528/",
+      "name": "Jeff Buhler"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0049706/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0023400/"
+    }
+  ],
+  "description": "Pet Sematary is a movie starring John Lithgow, Jason Clarke, and Amy Seimetz. Louis Creed, his wife Rachel and their two children Gage and Ellie move to a rural home where they are welcomed and enlightened about the eerie \u0027Pet...",
+  "datePublished": "2019-04-04",
+  "keywords": "cat,horror movie remake,zombie,indian burial ground,based on novel",
+  "trailer": {
+    "@type": "VideoObject",
+    "name": "Official Trailer",
+    "embedUrl": "/video/imdb/vi1638906393",
+    "thumbnail": {
+      "@type": "ImageObject",
+      "contentUrl": "https://m.media-amazon.com/images/M/MV5BNWI1ODY1MjctMWUwNy00YWRkLTgxZGUtYjI5OGY3ZDM5MmRkXkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg"
+    },
+    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNWI1ODY1MjctMWUwNy00YWRkLTgxZGUtYjI5OGY3ZDM5MmRkXkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg",
+    "description": "Based on the seminal horror novel by Stephen King, \u0027Pet Sematary\u0027 follows Dr. Louis Creed (Jason Clarke), who, after relocating with his wife Rachel (Amy Seimetz) and their two young children from Boston to rural Maine, discovers a mysterious burial ground hidden deep in the woods near the family\u0027s new home. When tragedy strikes, Louis turns to his unusual neighbor, Jud Crandall (John Lithgow), setting off a perilous chain reaction that unleashes an unfathomable evil with horrific consequences.",
+    "uploadDate": "2018-10-10T13:05:02Z"
+  }
+}
+
+
