@@ -1,0 +1,84 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Movie",
+  "url": "/title/tt3016748/",
+  "name": "Jacob\u0027s Ladder",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "contentRating": "R",
+  "actor": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0930898/",
+      "name": "Jesse Williams"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm1298458/",
+      "name": "Guy Burnet"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0646568/",
+      "name": "Karla Souza"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0797746/",
+      "name": "Joseph Sikora"
+    }
+  ],
+  "director": {
+    "@type": "Person",
+    "url": "/name/nm1270033/",
+    "name": "David M. Rosenthal"
+  },
+  "creator": [
+    {
+      "@type": "Person",
+      "url": "/name/nm1161528/",
+      "name": "Jeff Buhler"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm9752259/",
+      "name": "Sarah Thorpe"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0908411/",
+      "name": "Jake Wade Wall"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm1161528/",
+      "name": "Jeff Buhler"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0748022/",
+      "name": "Bruce Joel Rubin"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0192696/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0192696/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0248894/"
+    }
+  ],
+  "description": "Jacob\u0027s Ladder is a movie starring Jesse Williams, Guy Burnet, and Karla Souza. After returning home from the Vietnam War, veteran Jacob Singer struggles to maintain his sanity. Plagued by hallucinations and flashbacks, Singer...",
+  "datePublished": "2019-02-01",
+  "keywords": "remake"
+}
+
+
