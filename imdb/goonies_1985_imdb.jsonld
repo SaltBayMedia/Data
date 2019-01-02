@@ -1,0 +1,106 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Movie",
+  "url": "/title/tt0089218/",
+  "name": "The Goonies",
+  "image": "https://m.media-amazon.com/images/M/MV5BNGViMjJjNTUtY2IzNi00YzcyLWFjODUtMjc0NTI3YWNhNjgzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+  "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "contentRating": "PG",
+  "actor": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0000276/",
+      "name": "Sean Astin"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0000982/",
+      "name": "Josh Brolin"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0169480/",
+      "name": "Jeff Cohen"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0000397/",
+      "name": "Corey Feldman"
+    }
+  ],
+  "director": {
+    "@type": "Person",
+    "url": "/name/nm0001149/",
+    "name": "Richard Donner"
+  },
+  "creator": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0000229/",
+      "name": "Steven Spielberg"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0001060/",
+      "name": "Chris Columbus"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0026840/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0009119/"
+    }
+  ],
+  "description": "The Goonies is a movie starring Sean Astin, Josh Brolin, and Jeff Cohen. In order to save their home from foreclosure, a group of misfits set out to find a pirate\u0027s ancient valuable treasure.",
+  "datePublished": "1985-06-07",
+  "keywords": "treasure hunt,treasure,map,treasure map,pirate",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": 211452,
+    "bestRating": "10.0",
+    "worstRating": "1.0",
+    "ratingValue": "7.8"
+  },
+  "review": {
+    "@type": "Review",
+    "itemReviewed": {
+      "@type": "CreativeWork",
+      "url": "/title/tt0089218/"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Bruno-54"
+    },
+    "dateCreated": "1999-05-30",
+    "inLanguage": "English",
+    "name": "Back to our childhood...",
+    "reviewBody": " There was a time when boys would spend a whole day watching their favorite heroes, dreaming of riding a crusade against Darth Vader\u0027s Empire or fighting the enemies among the Knights of the Round Table. Just like in the Fantasy Island, where Mr. Roarke and Tatoo would make all one\u0027s wishes come true, The Goonies has the special talent to bring our childhood fantasies back and remind us how great those years were.\n\nIn this 1985 movie, a bunch of kids find a map which indicates the spot where the evil pirate One-Eyed-Willie buried a big treasure stolen from English ships in the 1500\u0027s. As we can predict, they decide to seek for the gold and precious stones to help their parents who are about to be expelled from their homes because they can\u0027t make ends meet and also because some wealthy men want to put their houses down to build a country club on it\u0027s place. Dangers, traps and even a family of thieves - the Fratelli - are after them.\n\nAs the film goes on, we can see how closer the friends get and how supportive we all should be. They would always be there for each other, no matter how deep their problems are. Even a rich girl, Andy, is accepted by the group, in a very politically correct act, where no distinctions are made. The scene in which the guys are stuck in a hole, is very touching and really digs our sense of aid.\n\nRichard Donner directed this movie and another famous director, Chris Columbus wrote the screenplay, based on a Steven Spielberg\u0027s story. Matt Sweeney was responsable for the special effects and the main theme ( They \u0027r good enough ) was written and performed by Cindy Lauper.\n\nAfter the film, none of the kids became famous actors. Corey Feldman and Kerry Green took part in some teenage comedies, while Sean Astin showed up in \"Memphis Belle\" and Ke Huy Quan was the young Indiana Jone\u0027s chinese taxi driver in \"The Temple of the Doom\". The only one who joined some serious projects was Martha Plimpton.\n\nBut these are just technical details. What really counts in \"The Goonies\" are the two hours of humanity, pleasure, inocence, friendship - and even the first love - that only children can show in their eyes. In fact, it\u0027s a small journey to our past, to a time when your deepest worries were about the girl (or the boy) on the next chair. ",
+    "reviewRating": {
+      "@type": "Rating",
+      "worstRating": "1",
+      "bestRating": "10",
+      "ratingValue": "10"
+    }
+  },
+  "duration": "PT1H54M",
+  "trailer": {
+    "@type": "VideoObject",
+    "name": "You Just Watched: \u0027The Goonies\u0027",
+    "embedUrl": "/video/imdb/vi3886725145",
+    "thumbnail": {
+      "@type": "ImageObject",
+      "contentUrl": "https://m.media-amazon.com/images/M/MV5BNWFhNzFhNjgtZmIxNi00YTI0LTgwMDEtMTQ1MjJlY2UxZjMzXkEyXkFqcGdeQXBrZWVzZXk@._V1_.jpg"
+    },
+    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNWFhNzFhNjgtZmIxNi00YTI0LTgwMDEtMTQ1MjJlY2UxZjMzXkEyXkFqcGdeQXBrZWVzZXk@._V1_.jpg",
+    "description": "After you\u0027ve watched \u0027The Goonies,\u0027 discover new insights and behind-the-scenes tidbits about the cast and the making of the movie.",
+    "uploadDate": "2017-12-02T22:05:16Z"
+  }
+}
+
+
