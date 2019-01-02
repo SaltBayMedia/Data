@@ -1,0 +1,96 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Movie",
+  "url": "/title/tt0437086/",
+  "name": "Alita: Battle Angel",
+  "image": "https://m.media-amazon.com/images/M/MV5BNzVhMjcxYjYtOTVhOS00MzQ1LWFiNTAtZmY2ZmJjNjIxMjllXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_.jpg",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Romance",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "actor": [
+    {
+      "@type": "Person",
+      "url": "/name/nm4023073/",
+      "name": "Rosa Salazar"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm2555462/",
+      "name": "Eiza González"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0000124/",
+      "name": "Jennifer Connelly"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0991810/",
+      "name": "Mahershala Ali"
+    }
+  ],
+  "director": {
+    "@type": "Person",
+    "url": "/name/nm0001675/",
+    "name": "Robert Rodriguez"
+  },
+  "creator": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0000116/",
+      "name": "James Cameron"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0436164/",
+      "name": "Laeta Kalogridis"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0001675/",
+      "name": "Robert Rodriguez"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm1738737/",
+      "name": "Yukito Kishiro"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0000756/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0038663/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0035848/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0420822/"
+    }
+  ],
+  "description": "Alita: Battle Angel is a movie starring Rosa Salazar, Eiza González, and Jennifer Connelly. An action-packed story of one young woman\u0027s journey to discover the truth of who she is and her fight to change the world.",
+  "datePublished": "2019-02-05",
+  "keywords": "based on manga,adaptation,cyborg,space station,dystopian future",
+  "trailer": {
+    "@type": "VideoObject",
+    "name": "Asia Trailer",
+    "embedUrl": "/video/imdb/vi4274502169",
+    "thumbnail": {
+      "@type": "ImageObject",
+      "contentUrl": "https://m.media-amazon.com/images/M/MV5BN2ZmOGE4OTYtYTM5Ny00ZTg3LTlhYjMtNWZiNTlmN2UzNmI5XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+    },
+    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BN2ZmOGE4OTYtYTM5Ny00ZTg3LTlhYjMtNWZiNTlmN2UzNmI5XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+    "description": "When Alita (Rosa Salazar) awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido (Christoph Waltz), a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past. As Alita learns to navigate her new life and the treacherous streets of Iron City, Ido tries to shield her from her mysterious history while her street-smart new friend Hugo (Keean Johnson) offers instead to help trigger her memories. But it is only when the deadly and corrupt forces that run the city come after Alita that she discovers a clue to her past - she has unique fighting abilities that those in power will stop at nothing to control. If she can stay out of their grasp, she could be the key to saving her friends, her family and the world she\u0027s grown to love.",
+    "uploadDate": "2018-12-10T18:10:15Z"
+  }
+}
+
+
