@@ -1,0 +1,126 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Movie",
+  "url": "/title/tt4154916/",
+  "name": "Replicas",
+  "image": "https://m.media-amazon.com/images/M/MV5BZGQxYTZlYzQtNjk3NS00MjVhLTkxZTYtMDk2ODlkMGJkYzBhXkEyXkFqcGdeQXVyMTk5MzE1MTY@._V1_.jpg",
+  "genre": [
+    "Crime",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "contentRating": "PG-13",
+  "actor": [
+    {
+      "@type": "Person",
+      "url": "/name/nm1404408/",
+      "name": "Alice Eve"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0000206/",
+      "name": "Keanu Reeves"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm3014840/",
+      "name": "Emily Alyn Lind"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm3492402/",
+      "name": "Emjay Anthony"
+    }
+  ],
+  "director": {
+    "@type": "Person",
+    "url": "/name/nm0618680/",
+    "name": "Jeffrey Nachmanoff"
+  },
+  "creator": [
+    {
+      "@type": "Person",
+      "url": "/name/nm3203841/",
+      "name": "Chad St. John"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm1336500/",
+      "name": "Stephen Hamel"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0097671/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0117723/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0540798/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0531269/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0269133/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0428352/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0591235/"
+    }
+  ],
+  "description": "Replicas is a movie starring Alice Eve, Keanu Reeves, and Emily Alyn Lind. A scientist becomes obsessed with bringing back his family members who died in a traffic accident.",
+  "datePublished": "2018-10-26",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": 2886,
+    "bestRating": "10.0",
+    "worstRating": "1.0",
+    "ratingValue": "5.6"
+  },
+  "review": {
+    "@type": "Review",
+    "itemReviewed": {
+      "@type": "CreativeWork",
+      "url": "/title/tt4154916/"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "TheTopDawg"
+    },
+    "dateCreated": "2018-12-24",
+    "inLanguage": "English",
+    "name": "Flawed in many ways, but I still enjoyed it.",
+    "reviewBody": "The major issue with the film was the writing - the screenplay written by novice Chad St. John (this being his 2nd only screenplay), and the story by a novice Stephen Hamel (this being only his 3rd full length film).\n\nThe camera directing was fairly decent from Jeffrey Nachmanoff (this being only his 4th full length feature film, his experience mainly in TV series), but I feel he failed in directing his talent properly, especially Alice Eve, who was unconvincing and seemed like this was her first acting role.\n\nThe S/VFX weren\u0027t the greatest, but for a B-grade film low budget film, they were quite adequate - not sure what some of the haters are whining about.\n\nIt seems that the production itself was a little cheap (thus B-grade), perhaps meant to be a low budget (indie?) film. After all, it was purchased by Entertainment Studios for only 4m.\n\nAs a huge fan of Keanu Reeves, I feel he should have just stayed on as 1 of the *gulp* 27 producers, and cast someone more fitting as a scientist. I think many decisions couldn\u0027t have been easily agreed upon with that many producers.\n\nThe casting was terrible overall. Security guys with pony tails and sunglasses? The acting again wasn\u0027t as good as I expected, but I think that was the directors fault as I mentioned above. The only convincing lead was Thomas Middleditch.\n\nAs a low budget B-grade film, and although there is a lot of haters out there, it was still decent enough and it kept me pinned to the screen. Had the writing been tighter, directing better, and cast a little differently, then this would have been a hit.\n\nNevertheless, it was still entertaining and I enjoyed it. Not worth the hater\u0027s low scores, nor the fake 10\u0027s, but it\u0027s an honest 8/10 from me - taking into consideration it was a low budget B-grade film.",
+    "reviewRating": {
+      "@type": "Rating",
+      "worstRating": "1",
+      "bestRating": "10",
+      "ratingValue": "8"
+    }
+  },
+  "duration": "PT1H47M",
+  "trailer": {
+    "@type": "VideoObject",
+    "name": "Official Trailer",
+    "embedUrl": "/video/imdb/vi954579481",
+    "thumbnail": {
+      "@type": "ImageObject",
+      "contentUrl": "https://m.media-amazon.com/images/M/MV5BZGE4NzljNmEtMGU5Zi00ZTY1LWI0ZTYtYzlkOTdiMmI2OWVjXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+    },
+    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZGE4NzljNmEtMGU5Zi00ZTY1LWI0ZTYtYzlkOTdiMmI2OWVjXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+    "description": "After a car accident kills his family, a daring synthetic biologist (Reeves) will stop at nothing to bring them back, even if it means pitting himself against a government-controlled laboratory, a police task force, and the physical laws of science.",
+    "uploadDate": "2018-11-19T20:05:17Z"
+  }
+}
+
+
