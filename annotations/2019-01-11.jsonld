@@ -15,7 +15,8 @@
       "@id": "id:Movie_The-Upside_2017",
       "identifier": "/title/tt1987680/",
       "sbm:name": "The Upside",
-      "sbm:relation": []
+      "sbm:relation": [],
+      "sbm:sourceWork": "/title/tt1675434/"
     },
     {
       "@id": "id:Movie_Replicas_2018",
