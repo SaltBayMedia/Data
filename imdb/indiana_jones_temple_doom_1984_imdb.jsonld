@@ -1,0 +1,98 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Movie",
+  "url": "/title/tt0087469/",
+  "name": "Indiana Jones and the Temple of Doom",
+  "image": "https://m.media-amazon.com/images/M/MV5BMGI1NTk2ZWMtMmI0YS00Yzg0LTljMzgtZTg4YjkyY2E5Zjc0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "genre": [
+    "Action",
+    "Adventure"
+  ],
+  "contentRating": "PG",
+  "actor": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0000148/",
+      "name": "Harrison Ford"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0001009/",
+      "name": "Kate Capshaw"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0702841/",
+      "name": "Jonathan Ke Quan"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0700869/",
+      "name": "Amrish Puri"
+    }
+  ],
+  "director": {
+    "@type": "Person",
+    "url": "/name/nm0000229/",
+    "name": "Steven Spielberg"
+  },
+  "creator": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0404754/",
+      "name": "Willard Huyck"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0441718/",
+      "name": "Gloria Katz"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0000184/",
+      "name": "George Lucas"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0023400/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0071326/"
+    }
+  ],
+  "description": "Indiana Jones and the Temple of Doom is a movie starring Harrison Ford, Kate Capshaw, and Jonathan Ke Quan. In 1935, Indiana Jones arrives in India, still part of the British Empire, and is asked to find a mystical stone. He then...",
+  "datePublished": "1984-05-23",
+  "keywords": "white dinner jacket,voodoo doll,studio logo segues into film,china,indiana jones character",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": 392667,
+    "bestRating": "10.0",
+    "worstRating": "1.0",
+    "ratingValue": "7.6"
+  },
+  "review": {
+    "@type": "Review",
+    "itemReviewed": {
+      "@type": "CreativeWork",
+      "url": "/title/tt0087469/"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "MisterWhiplash"
+    },
+    "dateCreated": "2006-04-13",
+    "inLanguage": "English",
+    "name": "Spielberg/Lucas\u0027 (partly) misguided-guide to sheer cliffhanging, shamefully entertaining adventure-lore",
+    "reviewBody": "(re-Review): I\u0027ve never disliked this movie, but it\u0027s also been a hard movie to love over time. I also never watched it as much as I can remember Raiders, or even Last Crusade (the latter I feel like was more of a TV thing, like on the USA network). I think the two main things that bog this down are a) I don\u0027t really care all that much about the quest for the stones - as far as MacGuffins go, these are some flimsy MacGuffins, which I almost forgot about midway through the movie, and b) Willie Scott is just a terribly written character.\n\nKate Capshaw, it should be said, isn\u0027t exactly BAD, per-say, but her character is so one-dimensional that she\u0027s not really given all that much interesting stuff to do except be the uber/quintessential Damsel-in-Distress, to the point (perhaps it was the idea?) of parody, or as some kind of ditzy sexual object. Her best scene is when she is going back and forth across the room, inter-cut with Jones talking to himself, about whether or not to leave the room or wait for the other to come to have \u0027mating rituals\u0027. Oh, she CAN be annoying in her screaming and perpetual HELP ME-ness, and yet it\u0027s interesting that some people - not all, but some - are more annoyed by Short Round.\n\nTo put it into Star Wars terms, imagine, easily enough, that Jones is Han Solo (and of course, both are Ford). Short Round is basically one of the droids, doing whatever to help the hero in his quest. Willie, on the other hand, is no Leia, or even a goddamn Padme. It\u0027s a flatly written one-dimensional object to follow along Dr. Jones on this mission that, in the grand scheme of things with this series, is a bit superfluous.\n\nSome backstory on the production can sometimes help; it was a dark time for Lucas as he was going through a divorce, and he poured I imagine a lot of that darkness into the depiction of these tribespeople doing their insane rituals involving torn-hearts and fires burned and so on underground. Certainly those moments where Jones is in \u0027evil\u0027 mode are scary - though how he just snaps out of it due to fire is just one of those \u0027things\u0027 you really have to suspend-to-disbelieve here. And on Spielberg\u0027s part, he\u0027s always there to work and make some craftsman-stuff, but his heart is really in a couple of the set- pieces, like the descending spikes from the ceiling in the trapped room, and of course the cart-chase.\n\nThat cart-chase is a piece of icon action cinema, and for good reason; it makes the movie into a literal interpretation of what it\u0027s trying to be, as a ROLLER COASTER ride. And like roller- coasters, they\u0027re fun, they\u0027re diverting, they may be scary, and once they\u0027re over you... don\u0027t get much substance from them. So Spielberg is there to work but not fully with his heart in it (one wonders what he thought of the script on first read, from future Howard the Duck scribes Hyuck and Katz), and Lucas in a mood that is bizarre and tonally strange. What to make of a movie that has such very dark turns, and the ends with the goofiest set piece of Jones chopping a bridge so that the nameless Indians fall to their deaths as hords of crocodiles are just there already waiting.\n\nIn other words, this is the most outlandish, CARTOONISH of the bunch. I\u0027d almost like this more if it was an animated movie; ironically years later Spielberg would make The Adventures of Tintin, a kind of Indiana Jones with a kid as the hero, and that somehow is LESS cartoony than this movie with its scenes where everything is over the top. Again, it makes for a good ride, and Ford is always great as Indiana Jones - yes, even in Crystal Skull, which I don\u0027t think is as bad as has been made out to be - but it\u0027s memorable only for the ride aspect, not for its particular, shall we say, pathos.",
+    "reviewRating": {
+      "@type": "Rating",
+      "worstRating": "1",
+      "bestRating": "10",
+      "ratingValue": "6"
+    }
+  },
+  "duration": "PT1H58M"
+}
+
+
