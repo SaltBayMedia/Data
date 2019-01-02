@@ -1,0 +1,114 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Movie",
+  "url": "/title/tt4154664/",
+  "name": "Captain Marvel",
+  "image": "https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_.jpg",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "actor": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0488953/",
+      "name": "Brie Larson"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm2110418/",
+      "name": "Gemma Chan"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0000179/",
+      "name": "Jude Law"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm5085683/",
+      "name": "Mckenna Grace"
+    }
+  ],
+  "director": [
+    {
+      "@type": "Person",
+      "url": "/name/nm1349818/",
+      "name": "Anna Boden"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0281396/",
+      "name": "Ryan Fleck"
+    }
+  ],
+  "creator": [
+    {
+      "@type": "Person",
+      "url": "/name/nm1349818/",
+      "name": "Anna Boden"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0281396/",
+      "name": "Ryan Fleck"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm4039044/",
+      "name": "Geneva Robertson-Dworet"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm2356614/",
+      "name": "Jac Schaeffer"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm2270979/",
+      "name": "Nicole Perlman"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm1100123/",
+      "name": "Joe Shrapnel"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm3143608/",
+      "name": "Anna Waterhouse"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0859471/",
+      "name": "Roy Thomas"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0170160/",
+      "name": "Gene Colan"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0051941/"
+    }
+  ],
+  "description": "Captain Marvel is a movie starring Brie Larson, Gemma Chan, and Jude Law. Carol Danvers becomes one of the universe\u0027s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+  "datePublished": "2019-03-06",
+  "keywords": "female protagonist,action heroine,alien technology,superhero,based on comic book",
+  "trailer": {
+    "@type": "VideoObject",
+    "name": "Trailer #2",
+    "embedUrl": "/video/imdb/vi2715466265",
+    "thumbnail": {
+      "@type": "ImageObject",
+      "contentUrl": "https://m.media-amazon.com/images/M/MV5BYzk0N2FkNDctOGRkYy00Y2EyLTllZWMtMzQyNzNmOGNkMzBmXkEyXkFqcGdeQXRzdGFzaWVr._V1_.jpg"
+    },
+    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzk0N2FkNDctOGRkYy00Y2EyLTllZWMtMzQyNzNmOGNkMzBmXkEyXkFqcGdeQXRzdGFzaWVr._V1_.jpg",
+    "description": "Carol Danvers becomes one of the universe\u0027s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+    "uploadDate": "2018-12-04T02:52:44Z"
+  }
+}
+
+
