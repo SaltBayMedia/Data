@@ -1,0 +1,142 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Movie",
+  "url": "/title/tt1675434/",
+  "name": "Intouchables",
+  "image": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_.jpg",
+  "genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "contentRating": "R",
+  "actor": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0167388/",
+      "name": "François Cluzet"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm1082477/",
+      "name": "Omar Sy"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0494504/",
+      "name": "Anne Le Ny"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm1109153/",
+      "name": "Audrey Fleurot"
+    }
+  ],
+  "director": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0619923/",
+      "name": "Olivier Nakache"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0865918/",
+      "name": "Éric Toledano"
+    }
+  ],
+  "creator": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0619923/",
+      "name": "Olivier Nakache"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm4778840/",
+      "name": "Philippe Pozzo di Borgo"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0865918/",
+      "name": "Éric Toledano"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0098808/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0387248/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0028557/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0028908/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0028766/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0296426/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0178269/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0079764/"
+    }
+  ],
+  "description": "Intouchables is a movie starring François Cluzet, Omar Sy, and Anne Le Ny. After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+  "datePublished": "2011-11-02",
+  "keywords": "class differences,black white friendship,caregiver,paralysis,rich poor",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": 649906,
+    "bestRating": "10.0",
+    "worstRating": "1.0",
+    "ratingValue": "8.5"
+  },
+  "review": {
+    "@type": "Review",
+    "itemReviewed": {
+      "@type": "CreativeWork",
+      "url": "/title/tt1675434/"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "bakor24-1"
+    },
+    "dateCreated": "2011-12-28",
+    "inLanguage": "English",
+    "name": "A Film of True Humanity : Comedy in the Face of Hardship",
+    "reviewBody": "It has been 9 weeks now since Intoucblaes has come to the movie theaters. I did not give it much thought at first, but the universal acclaim I have heard convinced me to go see it. I don\u0027t over-stating the universality of the acclaim, people of various races, classes, colors \u0026 countries told me it was a must see. I had no expectations, and I was floored. \n\nIntouchables, directed by Eric Toledano and Olivier Nakache, starring Francois Cluzet and Omar Sy is possibly the best French movie of the year. This is not because of a lack of worthy contenders, but truly because Intouchables is that profound. It touches on themes of presumptions, social class difference, health, and as naïve as it may sound, the universality of humanity. \n\nThe story is not as important as is the relationship that is displayed between the two protagonists. Philippe (played by Cluzet) a rich aristocrat that loves adrenaline rushes finds himself a paraplegic after a paragliding incident. Driss (played by Sy) is, in appearance a typical hoodlum from the ghetto. The two are brought together and wonders happen. \n\nThe audience then sees how the men affect one another as they engage in a truly honest relationship. Driss is charismatic, lighthearted and funny, helping make Philippe\u0027s life enjoyable again. In the process the traditionally cold French aristocracy around Philippe warms up and lightens. He is like a hot knife through cold butter. \n\nAgain, it is not so much the story that is important as is the social commentary. The commentary is not judgmental and is very subtle, revealed only in the contrasts the director chose in the story and its contexts. His method reminded me of a sort of Zen approach to comedy. One example you can catch from the trailer alone is the contrast between the able bodied black Driss and t the crippled white man, etc. \n\nThe audience is also given wonderful sights of Paris and France as we go through the Pyrenees, Cabourg and the various streets of Paris. \n\nOn paper the review does not make the movie justice. It is hilarious in a way that is true, honest and by which anyone can relate to. Most importantly it is revealing and comforting in its reminder of the essential in life : love. It\u0027s approach is simple, pure and honest and that makes it worthy of the title of \"best movie of the year\". \n\nI cannot say more; the film must be experienced. My friends tried, they failed, so I trusted them and I saw it. It floored me. Go and be floored. \n\nPS - I heard American studios have purchased the rights for the film. They will need a brilliant director, screenwriters and perfect actors to make the original justice in the way \"The Departed\" did for \"Infernal Affairs\".",
+    "reviewRating": {
+      "@type": "Rating",
+      "worstRating": "1",
+      "bestRating": "10",
+      "ratingValue": "10"
+    }
+  },
+  "duration": "PT1H52M",
+  "trailer": {
+    "@type": "VideoObject",
+    "name": "U.S. Version",
+    "embedUrl": "/video/imdb/vi59285529",
+    "thumbnail": {
+      "@type": "ImageObject",
+      "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjk3MDQyMjk4NV5BMl5BanBnXkFtZTgwNTIxNjU0NzE@._V1_.jpg"
+    },
+    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjk3MDQyMjk4NV5BMl5BanBnXkFtZTgwNTIxNjU0NzE@._V1_.jpg",
+    "description": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caretaker.",
+    "uploadDate": "2012-03-29T07:45:11Z"
+  }
+}
+
+
