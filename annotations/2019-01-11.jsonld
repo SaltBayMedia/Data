@@ -6,22 +6,26 @@
   },
   "@graph": [
     {
-      "@id": "id:ExternalList_2019-01-11",
-      "@type": "sbm:Work",
-      "name": "Coming Soon - Jan 11, 2019",
-      "url": "https://www.imdb.com/movies-coming-soon/2019-01/#Jan11"
-    },
-    {
       "@id": "id:Movie_The-Upside_2017",
-      "identifier": "/title/tt1987680/",
-      "sbm:name": "The Upside",
+      "@type": "CreativeWork",
+      "name": "The Upside",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "IMDB",
+        "value": "/title/tt1987680/"
+      },
       "sbm:relation": [],
-      "sbm:remakes": "/title/tt1675434/"
+      "sbm:remakeOf": "/title/tt1675434/"
     },
     {
       "@id": "id:Movie_Replicas_2018",
-      "identifier": "/title/tt4154916/",
-      "sbm:name": "Replicas",
+      "@type": "CreativeWork",
+      "name": "Replicas",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "IMDB",
+        "value": "/title/tt4154916/"
+      },
       "sbm:relation": []
     }
   ]
