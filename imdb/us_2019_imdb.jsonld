@@ -1,0 +1,74 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Movie",
+  "url": "/title/tt6857112/",
+  "name": "Us",
+  "image": "https://m.media-amazon.com/images/M/MV5BODUyODM0NjYyNF5BMl5BanBnXkFtZTgwNjAwMDU5NjM@._V1_.jpg",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "actor": [
+    {
+      "@type": "Person",
+      "url": "/name/nm5584344/",
+      "name": "Yahya Abdul-Mateen II"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm2143282/",
+      "name": "Lupita Nyong\u0027o"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0005253/",
+      "name": "Elisabeth Moss"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm6328300/",
+      "name": "Winston Duke"
+    }
+  ],
+  "director": {
+    "@type": "Person",
+    "url": "/name/nm1443502/",
+    "name": "Jordan Peele"
+  },
+  "creator": [
+    {
+      "@type": "Person",
+      "url": "/name/nm1443502/",
+      "name": "Jordan Peele"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0369235/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0555595/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0005073/"
+    }
+  ],
+  "description": "Us is a movie starring Yahya Abdul-Mateen II, Lupita Nyong\u0027o, and Elisabeth Moss. A mother and father take their kids to their beach house, expecting to enjoy time with friends, but their serenity turns to tension and chaos when...",
+  "datePublished": "2019-03-14",
+  "keywords": "home invasion,doppleganger,marriage,father son relationship,mother son relationship",
+  "trailer": {
+    "@type": "VideoObject",
+    "name": "Official Trailer",
+    "embedUrl": "/video/imdb/vi1899608601",
+    "thumbnail": {
+      "@type": "ImageObject",
+      "contentUrl": "https://m.media-amazon.com/images/M/MV5BNDA5ODUxM2QtMzgwNy00MjY4LTg5NjYtNzc2MjE3MzJjYTUxXkEyXkFqcGdeQXRzdGFzaWVr._V1_.jpg"
+    },
+    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDA5ODUxM2QtMzgwNy00MjY4LTg5NjYtNzc2MjE3MzJjYTUxXkEyXkFqcGdeQXRzdGFzaWVr._V1_.jpg",
+    "description": "Haunted by an unexplainable and unresolved trauma from her past and compounded by a string of eerie coincidences, Adelaide feels her paranoia elevate to high-alert as she grows increasingly certain that something bad is going to befall her family.\n\nAfter spending a tense beach day with their friends, the Tylers (Emmy winner Elisabeth Moss, Tim Heidecker, Cali Sheldon, Noelle Sheldon), Adelaide and her family return to their vacation home. When darkness falls, the Wilsons discover the silhouette of four figures holding hands as they stand in the driveway. Us pits an endearing American family against a terrifying and uncanny opponent: doppelgängers of themselves.",
+    "uploadDate": "2018-12-25T14:17:50Z"
+  }
+}
+
+
