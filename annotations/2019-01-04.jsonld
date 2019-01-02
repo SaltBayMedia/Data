@@ -65,7 +65,7 @@
               "@type": "AggregateRating",
               "name": "Indiana Jones and the Temple of Doom",
               "itemReviewed": { "@id": "/title/tt0087469/" },
-              "reviewAspect": "sbm:PertainsTo_Scene",
+              "reviewAspect": "sbm:PertainsTo_FilmScene",
               "ratingValue": 2,
               "ratingCount": 1,
               "author": { "@type": "Person", "name": "Adam Shepherd" }
@@ -74,7 +74,7 @@
               "@type": "AggregateRating",
               "name": "Star Wars: Episode IV - A New Hope",
               "itemReviewed": { "@id": "/title/tt0076759/" },
-              "reviewAspect": "sbm:PertainsTo_Scene",
+              "reviewAspect": "sbm:PertainsTo_FilmScene",
               "ratingValue": 1,
               "ratingCount": 1,
               "author": { "@type": "Person", "name": "Adam Shepherd" }
