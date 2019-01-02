@@ -1,0 +1,79 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Movie",
+  "url": "/title/tt5886046/",
+  "name": "Escape Room",
+  "image": "https://m.media-amazon.com/images/M/MV5BMjQ2NDMwMTY3MF5BMl5BanBnXkFtZTgwNDg5OTc1NjM@._V1_.jpg",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "contentRating": "PG-13",
+  "actor": [
+    {
+      "@type": "Person",
+      "url": "/name/nm2832695/",
+      "name": "Deborah Ann Woll"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm5347988/",
+      "name": "Taylor Russell"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0479527/",
+      "name": "Tyler Labine"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm2383250/",
+      "name": "Logan Miller"
+    }
+  ],
+  "director": {
+    "@type": "Person",
+    "url": "/name/nm0733263/",
+    "name": "Adam Robitel"
+  },
+  "creator": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0776885/",
+      "name": "Bragi F. Schut"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm3481322/",
+      "name": "Maria Melnik"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0776885/",
+      "name": "Bragi F. Schut"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0011134/"
+    }
+  ],
+  "description": "Escape Room is a movie starring Deborah Ann Woll, Taylor Russell, and Tyler Labine. Six strangers find themselves in circumstances beyond their control, and must use their wits to survive.",
+  "datePublished": "2019-01-03",
+  "keywords": "escape room,teamwork,puzzle,evil corporation,mind bending",
+  "trailer": {
+    "@type": "VideoObject",
+    "name": "Official Trailer",
+    "embedUrl": "/video/imdb/vi1755167257",
+    "thumbnail": {
+      "@type": "ImageObject",
+      "contentUrl": "https://m.media-amazon.com/images/M/MV5BYWIyYzc4NTktNGE3ZC00MTg5LWExOTYtMGQ1MzkzNTVmYjQyXkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg"
+    },
+    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYWIyYzc4NTktNGE3ZC00MTg5LWExOTYtMGQ1MzkzNTVmYjQyXkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg",
+    "description": "A psychological thriller about six strangers who find themselves in circumstances beyond their control and must use their wits to find the clues or die.",
+    "uploadDate": "2018-10-19T14:09:37Z"
+  }
+}
+
+
