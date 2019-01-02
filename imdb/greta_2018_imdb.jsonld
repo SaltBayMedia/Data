@@ -1,0 +1,113 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Movie",
+  "url": "/title/tt2639336/",
+  "name": "Greta",
+  "image": "https://m.media-amazon.com/images/M/MV5BNzQyODUwMDUyNF5BMl5BanBnXkFtZTgwMzk1Nzk5NjM@._V1_.jpg",
+  "genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "contentRating": "R",
+  "actor": [
+    {
+      "@type": "Person",
+      "url": "/name/nm1631269/",
+      "name": "Chloë Grace Moretz"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm2140860/",
+      "name": "Maika Monroe"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0001376/",
+      "name": "Isabelle Huppert"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm1534698/",
+      "name": "Zawe Ashton"
+    }
+  ],
+  "director": {
+    "@type": "Person",
+    "url": "/name/nm0001403/",
+    "name": "Neil Jordan"
+  },
+  "creator": [
+    {
+      "@type": "Person",
+      "url": "/name/nm1242522/",
+      "name": "Ray Wright"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0001403/",
+      "name": "Neil Jordan"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm1242522/",
+      "name": "Ray Wright"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0015447/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0093776/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0298154/"
+    }
+  ],
+  "description": "Greta is a movie starring Chloë Grace Moretz, Maika Monroe, and Isabelle Huppert. A young woman befriends a lonely widow.",
+  "datePublished": "2019-03-01",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": 128,
+    "bestRating": "10.0",
+    "worstRating": "1.0",
+    "ratingValue": "6.6"
+  },
+  "review": {
+    "@type": "Review",
+    "itemReviewed": {
+      "@type": "CreativeWork",
+      "url": "/title/tt2639336/"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "sassa_11"
+    },
+    "dateCreated": "2018-09-10",
+    "inLanguage": "English",
+    "name": "Decent",
+    "reviewBody": "The acting was great and there was definitely some real suspense created but also a lot of cliche and unbelievable things occurred (mostly things secondary to the plot actually).  I felt that the movie could have been shorter/ended earlier.  Overall though the movie was very well acted and enjoyable. Left with a slightly different (and more cautious) view of the world.",
+    "reviewRating": {
+      "@type": "Rating",
+      "worstRating": "1",
+      "bestRating": "10",
+      "ratingValue": "7"
+    }
+  },
+  "duration": "PT1H38M",
+  "trailer": {
+    "@type": "VideoObject",
+    "name": "Official Trailer",
+    "embedUrl": "/video/imdb/vi1077262873",
+    "thumbnail": {
+      "@type": "ImageObject",
+      "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTdjNTIwMzgtYWNiYy00Njc5LThjMTEtYmQ2ZTEzMDNjMzRjXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+    },
+    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTdjNTIwMzgtYWNiYy00Njc5LThjMTEtYmQ2ZTEzMDNjMzRjXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+    "description": "A naïve young woman trying to make it on her own in New York City, Frances (Chloë Grace Moretz) doesn\u0027t think twice about returning the handbag she finds on the subway to its rightful owner. That owner is Greta (Isabelle Huppert), an eccentric French piano teacher with a love for classical music and an aching loneliness. Having recently lost her mother, Frances quickly grows closer to widowed Greta. The two become fast friends - but Greta\u0027s maternal charms begin to dissolve and grow increasingly disturbing as Frances discovers that nothing in Greta\u0027s life is what it seems.",
+    "uploadDate": "2018-12-20T16:09:12Z"
+  }
+}
+
+
