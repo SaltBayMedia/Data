@@ -1,0 +1,84 @@
+{
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "sbm": "http://schema.saltbaymedia.org/ontology/v1/",
+    "id": "http://data.saltbaymedia.org/id/"
+  },
+  "@graph": [
+    {
+      "@id": "id:ExternalList_2019-01-04",
+      "@type": "sbm:Work",
+      "name": "Coming Soon - Jan 4, 2019",
+      "url": "https://www.imdb.com/movies-coming-soon/2019-01/?ref_=cs_dt_pv#Jan4"
+    },
+    {
+      "@id": "id:Movie_Escape-Room_2019",
+      "identifier": "/title/tt1016301/",
+      "sbm:name": "Escape Room",
+      "sbm:relation": [
+        {
+          "@type": "sbm:RelatedWork",
+          "sbm:work": "/title/tt1016301/",
+          "sbm:name": "Fermat's Room",
+          "keyword": "escape room",
+          "url": "https://www.imdb.com/search/keyword?keywords=escape-room",
+          "sbm:qualifiedUsage": "sbm:Movie",
+          "sbm:relationRank": 90
+        },
+        {
+          "@type": "sbm:RelatedWork",
+          "sbm:work": "/title/tt0123755/",
+          "sbm:name": "Cube",
+          "keyword": "escape room",
+          "url": "https://www.imdb.com/search/keyword?keywords=escape-room",
+          "sbm:qualifiedUsage": "sbm:Movie",
+          "sbm:relationSimilarity": 85
+        },
+        {
+          "@type": "sbm:RelatedWork",
+          "sbm:work": "/title/tt0387564/",
+          "sbm:name": "Saw",
+          "keyword": "escape room",
+          "url": "https://www.imdb.com/search/keyword?keywords=escape-room",
+          "sbm:qualifiedUsage": "sbm:Movie",
+          "sbm:relationRank": 60
+        },
+        {
+          "sbm:work": "/title/tt0087469/",
+          "sbm:name": "Indiana Jones and the Temple of Doom",
+          "keyword": "shrinking room",
+          "url": "https://www.imdb.com/search/keyword?keywords=shrinking-room",
+          "sbm:qualifiedUsage": "sbm:Scene",
+          "sbm:relationRank": 20
+        },
+        {
+          "@type": "sbm:RelatedWork",
+          "sbm:work": "/title/tt0076759/",
+          "sbm:name": "Star Wars: Episode IV - A New Hope",
+          "keyword": "shrinking room",
+          "url": "https://www.imdb.com/search/keyword?keywords=shrinking-room",
+          "sbm:qualifiedUsage": "sbm:Scene",
+          "sbm:relationRank": 10
+        },
+        {
+          "@type": "sbm:RelatedWork",
+          "sbm:work": "/title/tt0091369/",
+          "sbm:name": "Labyrinth",
+          "keyword": "trap",
+          "url": "https://www.imdb.com/search/keyword?keywords=trap",
+          "sbm:qualifiedUsage": "sbm:Movie",
+          "sbm:relationRank": 50
+        },
+        {
+          "@type": "sbm:RelatedWork",
+          "sbm:work": "/title/tt0089218/",
+          "sbm:name": "Goonies",
+          "keyword": "trap",
+          "url": "https://www.imdb.com/search/keyword?keywords=trap",
+          "sbm:qualifiedUsage": "sbm:Movie",
+          "sbm:relationRank": 50
+        }
+      ]
+    }
+  ]
+}
