@@ -1,0 +1,82 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Movie",
+  "url": "/title/tt5968394/",
+  "name": "Captive State",
+  "image": "https://m.media-amazon.com/images/M/MV5BMTc5NTQ5MDg4MV5BMl5BanBnXkFtZTgwMTAwMDU5NjM@._V1_.jpg",
+  "genre": [
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "contentRating": "PG-13",
+  "actor": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0446622/",
+      "name": "Machine Gun Kelly"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0267812/",
+      "name": "Vera Farmiga"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0000422/",
+      "name": "John Goodman"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm5483400/",
+      "name": "Madeline Brewer"
+    }
+  ],
+  "director": {
+    "@type": "Person",
+    "url": "/name/nm1012501/",
+    "name": "Rupert Wyatt"
+  },
+  "creator": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0066464/",
+      "name": "Erica Beeney"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm1012501/",
+      "name": "Rupert Wyatt"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0040938/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0567243/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0548691/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0132772/"
+    }
+  ],
+  "description": "Captive State is a movie starring Machine Gun Kelly, Vera Farmiga, and John Goodman. Set in a Chicago neighborhood nearly a decade after an occupation by an extra-terrestrial force, Captive State explores the lives on both sides of...",
+  "datePublished": "2019-03-28",
+  "keywords": "alien invasion,apocalypse,dystopia,f rated",
+  "trailer": {
+    "@type": "VideoObject",
+    "name": "Trailer #3",
+    "embedUrl": "/video/imdb/vi2127280665",
+    "thumbnail": {
+      "@type": "ImageObject",
+      "contentUrl": "https://m.media-amazon.com/images/M/MV5BMDVlODQ5YjItZjc0Yy00NThhLTg0YzQtODMyODQwZDBhMWY3XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+    },
+    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDVlODQ5YjItZjc0Yy00NThhLTg0YzQtODMyODQwZDBhMWY3XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+    "description": "Set in a Chicago neighborhood nearly a decade after an occupation by an extra-terrestrial force, \u0027Captive State\u0027 explores the lives on both sides of the conflict - the collaborators and dissidents.",
+    "uploadDate": "2018-12-12T16:17:22Z"
+  }
+}
