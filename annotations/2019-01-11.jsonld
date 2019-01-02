@@ -16,7 +16,7 @@
       "identifier": "/title/tt1987680/",
       "sbm:name": "The Upside",
       "sbm:relation": [],
-      "sbm:sourceWork": "/title/tt1675434/"
+      "sbm:remakes": "/title/tt1675434/"
     },
     {
       "@id": "id:Movie_Replicas_2018",
