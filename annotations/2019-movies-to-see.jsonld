@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "sbm": "http://schema.saltbaymedia.org/ontology/v1/",
+    "id": "http://data.saltbaymedia.org/id/"
+  },
+  "@graph": [
+    {
+      "@id": "id:List_2019-Movies-to-See",
+      "@type": "sbm:MediaCollection",
+      "sbm:member":[
+        {"@type": "MediaCollectionItem", "@id": "id:Movie_Escape-Room_2019"},
+        {"@type": "MediaCollectionItem", "@id": "id:Movie_The-Upside_2017"},
+        {"@type": "MediaCollectionItem", "@id": "id:Movie_Replicas_2018"}
+      ]
+    }
+  ]
+}
