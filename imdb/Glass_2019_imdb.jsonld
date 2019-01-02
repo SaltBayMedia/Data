@@ -1,0 +1,79 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Movie",
+  "url": "/title/tt6823368/",
+  "name": "Glass",
+  "image": "https://m.media-amazon.com/images/M/MV5BMTY1OTA2MjI5OV5BMl5BanBnXkFtZTgwNzkxMjU4NjM@._V1_.jpg",
+  "genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "contentRating": "PG-13",
+  "actor": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0005299/",
+      "name": "Sarah Paulson"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0000246/",
+      "name": "Bruce Willis"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0564215/",
+      "name": "James McAvoy"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm5896355/",
+      "name": "Anya Taylor-Joy"
+    }
+  ],
+  "director": {
+    "@type": "Person",
+    "url": "/name/nm0796117/",
+    "name": "M. Night Shyamalan"
+  },
+  "creator": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0796117/",
+      "name": "M. Night Shyamalan"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0796117/",
+      "name": "M. Night Shyamalan"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0054054/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0098315/"
+    }
+  ],
+  "description": "Glass is a movie starring Sarah Paulson, Bruce Willis, and James McAvoy. Security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities.",
+  "datePublished": "2019-01-16",
+  "keywords": "third part,non comic book superhero,sequel,invulnerability,villians",
+  "duration": "PT2H9M",
+  "trailer": {
+    "@type": "VideoObject",
+    "name": "International Trailer",
+    "embedUrl": "/video/imdb/vi768195097",
+    "thumbnail": {
+      "@type": "ImageObject",
+      "contentUrl": "https://m.media-amazon.com/images/M/MV5BYThjNGI1YTctNDI4Yi00NzdkLTk2ZWItZWUzMzdjMDE2ODZmXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+    },
+    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYThjNGI1YTctNDI4Yi00NzdkLTk2ZWItZWUzMzdjMDE2ODZmXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+    "description": "M. Night Shyamalan brings together the narratives of \u0027Unbreakable\u0027 and \u0027Split\u0027 to follow David Dunn (Bruce Willis) in pursuit of The Beast (James McAvoy) in a series of escalating encounters, while the shadowy presence of Mr. Glass emerges as an orchestrator who holds secrets critical to both men.",
+    "uploadDate": "2018-12-11T16:03:52Z"
+  }
+}
+
+
