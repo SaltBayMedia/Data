@@ -10,8 +10,35 @@
       "@type": "sbm:MediaCollection",
       "sbm:member":[
         {"@type": "MediaCollectionItem", "@id": "id:Movie_Escape-Room_2019"},
+        
         {"@type": "MediaCollectionItem", "@id": "id:Movie_The-Upside_2017"},
-        {"@type": "MediaCollectionItem", "@id": "id:Movie_Replicas_2018"}
+        {"@type": "MediaCollectionItem", "@id": "id:Movie_Replicas_2018"},
+        
+        {"@type": "MediaCollectionItem", "@id": "id:Movie_Glass_2019"},
+        
+        {"@type": "MediaCollectionItem", "@id": "id:Movie_Serenity_2019"},
+        
+        {"@type": "MediaCollectionItem", "@id": "id:Movie_Jacobs-Ladder_2019"},
+        
+        {"@type": "MediaCollectionItem", "@id": "id:Movie_Alita-Battle-Angel_2019"},
+        
+        {"@type": "MediaCollectionItem", "@id": "id:Movie_Greta_2018"},    
+        
+        {"@type": "MediaCollectionItem", "@id": "id:Movie_Captain-Marvel_2019"},  
+        
+        {"@type": "MediaCollectionItem", "@id": "id:Movie_Us_2019"}, 
+        
+        {"@type": "MediaCollectionItem", "@id": "id:Movie_Dumbo_2019"}, 
+        
+        {"@type": "MediaCollectionItem", "@id": "id:Movie_Captive-State_2019"}, 
+        
+        {"@type": "MediaCollectionItem", "@id": "id:Movie_Shazam_2019"}, 
+        
+        {"@type": "MediaCollectionItem", "@id": "id:Movie_Pet-Semetary_2019"}, 
+        
+        {"@type": "MediaCollectionItem", "@id": "id:Movie_Hellboy_2019"}, 
+        
+        {"@type": "MediaCollectionItem", "@id": "id:Movie_Avengers-Endgame_2019"}
       ]
     }
   ]
