@@ -1,0 +1,175 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Movie",
+  "url": "/title/tt0033563/",
+  "name": "Dumbo",
+  "image": "https://m.media-amazon.com/images/M/MV5BZDIzYjJjNmItZmY5Yy00NjRiLTkyMDYtODg2MGFjYmQzYWI5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "genre": [
+    "Animation",
+    "Drama",
+    "Family",
+    "Musical"
+  ],
+  "contentRating": "G",
+  "actor": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0001359/",
+      "name": "Sterling Holloway"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0112395/",
+      "name": "Edward Brophy"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0059934/",
+      "name": "James Baskett"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0082884/",
+      "name": "Herman Bing"
+    }
+  ],
+  "director": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0035899/",
+      "name": "Samuel Armstrong"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0272568/",
+      "name": "Norman Ferguson"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0414144/",
+      "name": "Wilfred Jackson"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0455741/",
+      "name": "Jack Kinney"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0730860/",
+      "name": "Bill Roberts"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0789313/",
+      "name": "Ben Sharpsteen"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0254675/",
+      "name": "John Elliotte"
+    }
+  ],
+  "creator": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0335469/",
+      "name": "Joe Grant"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0400056/",
+      "name": "Dick Huemer"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0257481/",
+      "name": "Otto Englander"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0670328/",
+      "name": "Bill Peet"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0061284/",
+      "name": "Aurelius Battaglia"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0727370/",
+      "name": "Joe Rinaldi"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0821707/",
+      "name": "Vernon Stallings"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0810324/",
+      "name": "Webb Smith"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0008673/",
+      "name": "Helen Aberson"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm2927785/",
+      "name": "Harold Pearl"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0098836/"
+    }
+  ],
+  "description": "Dumbo is a movie starring Sterling Holloway, Edward Brophy, and James Baskett. Ridiculed because of his enormous ears, a young circus elephant is assisted by a mouse to achieve his full potential.",
+  "datePublished": "1941-10-31",
+  "keywords": "florida,dumbo,ear,disney,circus",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": 103487,
+    "bestRating": "10.0",
+    "worstRating": "1.0",
+    "ratingValue": "7.3"
+  },
+  "review": {
+    "@type": "Review",
+    "itemReviewed": {
+      "@type": "CreativeWork",
+      "url": "/title/tt0033563/"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "zetes"
+    },
+    "dateCreated": "2001-11-23",
+    "inLanguage": "English",
+    "name": "A wonderful film from Disney\u0027s classic era",
+    "reviewBody": "As a kid, I would watch over and over several Disney features: Pinnochio, Peter Pan, Bambi, Alice in Wonderland, Lady and the Tramp, and Dumbo. When I come back to those films now, I recognize that they are all marvelous films and gave Walt Disney much deserved success. It\u0027s truly sad how far Disney has fallen. All kids\u0027 flicks now are awful. I revisited Dumbo, by the way, on the same night that I first watched Harry Potter and the Sorcerer\u0027s Stone, destined to be one of the most successful films of all time. It is execrable, and it is simply pathetic how bad films like it are nowadays. I say, bring your kids back to Dumbo, Pinnochio, Bambi, and the like. They may not be as harmless as the kind of movie Disney and others shove out today. You shouldn\u0027t be afraid of your children showing emotion. I can remember more than anything being profoundly affected by the \"Baby Mine\" number from Dumbo, where he visits his imprisoned mother. Films like these will mould your children\u0027s emotional stability instead of keeping them at a safe distance and selling them toys.",
+    "reviewRating": {
+      "@type": "Rating",
+      "worstRating": "1",
+      "bestRating": "10",
+      "ratingValue": "9"
+    }
+  },
+  "duration": "PT1H4M",
+  "trailer": {
+    "@type": "VideoObject",
+    "name": "Dumbo: 70th Anniversary Edition",
+    "embedUrl": "/video/imdb/vi3021380889",
+    "thumbnail": {
+      "@type": "ImageObject",
+      "contentUrl": "https://m.media-amazon.com/images/M/MV5BMzE5OWVkNmQtMWJhYi00NmZjLWFiZmUtNTc4Zjc0NmViY2JlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzE5OWVkNmQtMWJhYi00NmZjLWFiZmUtNTc4Zjc0NmViY2JlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description": "CT #2",
+    "uploadDate": "2011-05-02T03:13:44Z"
+  }
+}
+
+
