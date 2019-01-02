@@ -32,7 +32,7 @@
               "@type": "Rating",
               "name": "Fermat's Room",
               "itemReviewed": { "@id": "/title/tt1016301/" },
-              "reviewAspect": "sbm:PertainsTo_WholeFilm",
+              "reviewAspect": "Movie",
               "ratingValue": 5,
               "ratingCount": 1,
               "author": { "@type": "Person", "name": "Adam Shepherd" }
@@ -41,7 +41,7 @@
               "@type": "Rating",
               "name": "Cube",
               "itemReviewed": { "@id": "/title/tt0123755/" },
-              "reviewAspect": "sbm:PertainsTo_WholeFilm",
+              "reviewAspect": "Movie",
               "ratingValue": 5,
               "ratingCount": 1,
               "author": { "@type": "Person", "name": "Adam Shepherd" }
@@ -65,7 +65,7 @@
               "@type": "Rating",
               "name": "Indiana Jones and the Temple of Doom",
               "itemReviewed": { "@id": "/title/tt0087469/" },
-              "reviewAspect": "sbm:PertainsTo_FilmScene",
+              "reviewAspect": "Clip",
               "ratingValue": 2,
               "ratingCount": 1,
               "author": { "@type": "Person", "name": "Adam Shepherd" }
@@ -74,7 +74,7 @@
               "@type": "Rating",
               "name": "Star Wars: Episode IV - A New Hope",
               "itemReviewed": { "@id": "/title/tt0076759/" },
-              "reviewAspect": "sbm:PertainsTo_FilmScene",
+              "reviewAspect": "Clip",
               "ratingValue": 1,
               "ratingCount": 1,
               "author": { "@type": "Person", "name": "Adam Shepherd" }
@@ -98,7 +98,7 @@
               "@type": "Rating",
               "name": "Saw",
               "itemReviewed": { "@id": "/title/tt0387564/" },
-              "reviewAspect": "sbm:PertainsTo_WholeFilm",
+              "reviewAspect": "Movie",
               "ratingValue": 3,
               "ratingCount": 1,
               "author": { "@type": "Person", "name": "Adam Shepherd" }
@@ -107,7 +107,7 @@
               "@type": "Rating",
               "name": "Labyrinth",
               "itemReviewed": { "@id": "/title/tt0091369/" },
-              "reviewAspect": "sbm:PertainsTo_WholeFilm",
+              "reviewAspect": "Movie",
               "ratingValue": 3,
               "ratingCount": 1,
               "author": { "@type": "Person", "name": "Adam Shepherd" }
@@ -116,7 +116,7 @@
               "@type": "Rating",
               "name": "Goonies",
               "itemReviewed": { "@id": "/title/tt0089218/" },
-              "reviewAspect": "sbm:PertainsTo_WholeFilm",
+              "reviewAspect": "Movie",
               "ratingValue": 3,
               "ratingCount": 1,
               "author": { "@type": "Person", "name": "Adam Shepherd" }
