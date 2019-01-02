@@ -6,78 +6,122 @@
   },
   "@graph": [
     {
-      "@id": "id:ExternalList_2019-01-04",
-      "@type": "sbm:Work",
-      "name": "Coming Soon - Jan 4, 2019",
-      "url": "https://www.imdb.com/movies-coming-soon/2019-01/?ref_=cs_dt_pv#Jan4"
-    },
-    {
       "@id": "id:Movie_Escape-Room_2019",
-      "identifier": "/title/tt1016301/",
-      "sbm:name": "Escape Room",
-      "sbm:relation": [
+      "@type": "Movie",
+      "name": "Escape Room",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "IMDb",
+        "value": "/title/tt1016301/"
+      },
+      "sbm:relatedWork": [
         {
-          "@type": "sbm:RelatedWork",
-          "sbm:work": "/title/tt1016301/",
-          "sbm:name": "Fermat's Room",
-          "keyword": "escape room",
-          "url": "https://www.imdb.com/search/keyword?keywords=escape-room",
-          "sbm:qualifiedUsage": "sbm:Movie",
-          "sbm:relationRank": 90
+          "@type": ["sbm:CreativeWorkRelationship", "CreativeWork", "Product"],
+          "name": "Escape Room - related by the keyword 'escape room'",
+          "category": {
+            "@type": "PropertyValue",
+            "propertyID": "Keyword",
+            "value": {
+              "@type": "StructuredValue",
+              "name": "escape room",
+              "url": "https://www.imdb.com/search/keyword?keywords=escape-room"
+            }
+          },
+          "contentRating": [
+            {
+              "@type": "AggregateRating",
+              "name": "Fermat's Room",
+              "itemReviewed": { "@id": "/title/tt1016301/" },
+              "reviewAspect": "sbm:PertainsTo_WholeFilm",
+              "ratingValue": 5,
+              "ratingCount": 1,
+              "author": { "@type": "Person", "name": "Adam Shepherd" }
+            },
+            {
+              "@type": "AggregateRating",
+              "name": "Cube",
+              "itemReviewed": { "@id": "/title/tt0123755/" },
+              "reviewAspect": "sbm:PertainsTo_WholeFilm",
+              "ratingValue": 5,
+              "ratingCount": 1,
+              "author": { "@type": "Person", "name": "Adam Shepherd" }
+            }
+          ]
         },
         {
-          "@type": "sbm:RelatedWork",
-          "identifier": "/title/tt0123755/",
-          "sbm:name": "Cube",
-          "keyword": "escape room",
-          "url": "https://www.imdb.com/search/keyword?keywords=escape-room",
-          "sbm:qualifiedUsage": "sbm:Movie",
-          "sbm:relationSimilarity": 85
+          "@type": ["sbm:CreativeWorkRelationship", "CreativeWork", "Product"],
+          "name": "Escape Room - related by the keyword 'shrinking room'",
+          "category": {
+            "@type": "PropertyValue",
+            "propertyID": "Keyword",
+            "value": {
+              "@type": "StructuredValue",
+              "name": "shrinking room",
+              "url": "https://www.imdb.com/search/keyword?keywords=shrinking-room"
+            }
+          },
+          "contentRating": [
+            {
+              "@type": "AggregateRating",
+              "name": "Indiana Jones and the Temple of Doom",
+              "itemReviewed": { "@id": "/title/tt0087469/" },
+              "reviewAspect": "sbm:PertainsTo_Scene",
+              "ratingValue": 2,
+              "ratingCount": 1,
+              "author": { "@type": "Person", "name": "Adam Shepherd" }
+            },
+            {
+              "@type": "AggregateRating",
+              "name": "Star Wars: Episode IV - A New Hope",
+              "itemReviewed": { "@id": "/title/tt0076759/" },
+              "reviewAspect": "sbm:PertainsTo_Scene",
+              "ratingValue": 1,
+              "ratingCount": 1,
+              "author": { "@type": "Person", "name": "Adam Shepherd" }
+            }
+          ]
         },
         {
-          "@type": "sbm:RelatedWork",
-          "identifier": "/title/tt0387564/",
-          "sbm:name": "Saw",
-          "keyword": "escape room",
-          "url": "https://www.imdb.com/search/keyword?keywords=escape-room",
-          "sbm:qualifiedUsage": "sbm:Movie",
-          "sbm:relationRank": 60
-        },
-        {
-          "@type": "sbm:RelatedWork",
-          "identifier": "/title/tt0087469/",
-          "sbm:name": "Indiana Jones and the Temple of Doom",
-          "keyword": "shrinking room",
-          "url": "https://www.imdb.com/search/keyword?keywords=shrinking-room",
-          "sbm:qualifiedUsage": "sbm:Scene",
-          "sbm:relationRank": 20
-        },
-        {
-          "@type": "sbm:RelatedWork",
-          "sbm:work": "/title/tt0076759/",
-          "sbm:name": "Star Wars: Episode IV - A New Hope",
-          "keyword": "shrinking room",
-          "url": "https://www.imdb.com/search/keyword?keywords=shrinking-room",
-          "sbm:qualifiedUsage": "sbm:Scene",
-          "sbm:relationRank": 10
-        },
-        {
-          "@type": "sbm:RelatedWork",
-          "identifier": "/title/tt0091369/",
-          "sbm:name": "Labyrinth",
-          "keyword": "trap",
-          "url": "https://www.imdb.com/search/keyword?keywords=trap",
-          "sbm:qualifiedUsage": "sbm:Movie",
-          "sbm:relationRank": 50
-        },
-        {
-          "@type": "sbm:RelatedWork",
-          "identifier": "/title/tt0089218/",
-          "sbm:name": "Goonies",
-          "keyword": "trap",
-          "url": "https://www.imdb.com/search/keyword?keywords=trap",
-          "sbm:qualifiedUsage": "sbm:Movie",
-          "sbm:relationRank": 50
+          "@type": ["sbm:CreativeWorkRelationship", "CreativeWork", "Product"],
+          "name": "Escape Room - related by the keyword 'trap'",
+          "category": {
+            "@type": "PropertyValue",
+            "propertyID": "Keyword",
+            "value": {
+              "@type": "StructuredValue",
+              "name": "trap",
+              "url": "https://www.imdb.com/search/keyword?keywords=trap"
+            }
+          },
+          "contentRating": [
+            {
+              "@type": "AggregateRating",
+              "name": "Saw",
+              "itemReviewed": { "@id": "/title/tt0387564/" },
+              "reviewAspect": "sbm:PertainsTo_WholeFilm",
+              "ratingValue": 3,
+              "ratingCount": 1,
+              "author": { "@type": "Person", "name": "Adam Shepherd" }
+            },
+            {
+              "@type": "AggregateRating",
+              "name": "Labyrinth",
+              "itemReviewed": { "@id": "/title/tt0091369/" },
+              "reviewAspect": "sbm:PertainsTo_WholeFilm",
+              "ratingValue": 3,
+              "ratingCount": 1,
+              "author": { "@type": "Person", "name": "Adam Shepherd" }
+            },
+            {
+              "@type": "AggregateRating",
+              "name": "Goonies",
+              "itemReviewed": { "@id": "/title/tt0089218/" },
+              "reviewAspect": "sbm:PertainsTo_WholeFilm",
+              "ratingValue": 3,
+              "ratingCount": 1,
+              "author": { "@type": "Person", "name": "Adam Shepherd" }
+            }
+          ]
         }
       ]
     }
