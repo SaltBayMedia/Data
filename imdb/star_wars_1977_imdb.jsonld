@@ -1,0 +1,102 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Movie",
+  "url": "/title/tt0076759/",
+  "name": "Star Wars",
+  "image": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "contentRating": "PG",
+  "actor": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0000434/",
+      "name": "Mark Hamill"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0000148/",
+      "name": "Harrison Ford"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0000402/",
+      "name": "Carrie Fisher"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0000027/",
+      "name": "Alec Guinness"
+    }
+  ],
+  "director": {
+    "@type": "Person",
+    "url": "/name/nm0000184/",
+    "name": "George Lucas"
+  },
+  "creator": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0000184/",
+      "name": "George Lucas"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0071326/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0000756/"
+    }
+  ],
+  "description": "Star Wars is a movie starring Mark Hamill, Harrison Ford, and Carrie Fisher. Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire\u0027s world-destroying battle...",
+  "datePublished": "1977-05-25",
+  "keywords": "rebellion,empire,galactic war,princess,droid",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": 1091350,
+    "bestRating": "10.0",
+    "worstRating": "1.0",
+    "ratingValue": "8.6"
+  },
+  "review": {
+    "@type": "Review",
+    "itemReviewed": {
+      "@type": "CreativeWork",
+      "url": "/title/tt0076759/"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Sfpsycho415"
+    },
+    "dateCreated": "2003-10-22",
+    "inLanguage": "English",
+    "name": "Where It All Began-----10/10",
+    "reviewBody": "I can never pick a favorite movie because different movies have different effects. Goodfellas is my favorite drama. Face/Off is my favorite actioner. But when it comes to pure amazement, nothing beats Star Wars. We are introduced to a whole other universe with different creatures, different lifestyles, and different history. We are dropped in the middle of an intergalactic war between an empire and a rebellion that has raged for years and left the universe in ruin. It was the most fascinating thing to see when i was eleven, but to this day i am still a Star Wars nerd.\n\nThe cast of characters includes some of the coolest, funniest, and most tragic in film, and the actors who play them fit seamlessly into this new universe. Alec Guiness is flawless as Obi-Wan Kenobi, a Jedi on the run from the evil Empire. Harrison Ford is awesome as Han Solo, a smuggler and thief who helps the gang rescue the princess. But the my favorite character of all time is Darth Vader. Not only is he the coolest bad guy, but we learn in later films why he is evil and start to feel sympathetic for him. Not to mention that badass booming voice that can make ordering a pizza sound threatening.\n\nThis was not only the beginning of the best movie series ever, but it was the beginning of my love for movies. George Lucas is a genius for being able to come up with a great story and an incredible backdrop for what was supposed to be a flop, but turned into one of the best films ever. \n\n10/10",
+    "reviewRating": {
+      "@type": "Rating",
+      "worstRating": "1",
+      "bestRating": "10",
+      "ratingValue": "10"
+    }
+  },
+  "duration": "PT2H1M",
+  "trailer": {
+    "@type": "VideoObject",
+    "name": "Original Teaser Trailer",
+    "embedUrl": "/video/imdb/vi1317709849",
+    "thumbnail": {
+      "@type": "ImageObject",
+      "contentUrl": "https://m.media-amazon.com/images/M/MV5BMTUzNDY0NjY4Nl5BMl5BanBnXkFtZTgwNjY4MTQ0NzE@._V1_.jpg"
+    },
+    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTUzNDY0NjY4Nl5BMl5BanBnXkFtZTgwNjY4MTQ0NzE@._V1_.jpg",
+    "description": "Watch the original teaser trailer for Star Wars.",
+    "uploadDate": "2013-10-13T13:57:04Z"
+  }
+}
+
+
