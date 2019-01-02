@@ -1,0 +1,125 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Movie",
+  "url": "/title/tt0167190/",
+  "name": "Hellboy",
+  "image": "https://m.media-amazon.com/images/M/MV5BNTc1ZWY0ZTEtZTVmNi00MTg0LTg4NmQtZTI4OWNiMmQ0MWZkXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+  "genre": [
+    "Action",
+    "Fantasy",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "contentRating": "PG-13",
+  "actor": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0000579/",
+      "name": "Ron Perlman"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0427964/",
+      "name": "Doug Jones"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0004757/",
+      "name": "Selma Blair"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0000457/",
+      "name": "John Hurt"
+    }
+  ],
+  "director": {
+    "@type": "Person",
+    "url": "/name/nm0868219/",
+    "name": "Guillermo del Toro"
+  },
+  "creator": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0868219/",
+      "name": "Guillermo del Toro"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0868219/",
+      "name": "Guillermo del Toro"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm1486009/",
+      "name": "Peter Briggs"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0586005/",
+      "name": "Mike Mignola"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0003580/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0041635/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0186753/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0020061/"
+    }
+  ],
+  "description": "Hellboy is a movie starring Ron Perlman, Doug Jones, and Selma Blair. A demon, raised from infancy after being conjured by and rescued from the Nazis, grows up to become a defender against the forces of darkness.",
+  "datePublished": "2004-04-02",
+  "keywords": "nazi,demon,superhero,hero,assassin",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": 279103,
+    "bestRating": "10.0",
+    "worstRating": "1.0",
+    "ratingValue": "6.9"
+  },
+  "review": {
+    "@type": "Review",
+    "itemReviewed": {
+      "@type": "CreativeWork",
+      "url": "/title/tt0167190/"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "yak-yak"
+    },
+    "dateCreated": "2004-04-13",
+    "inLanguage": "English",
+    "name": "B+ Good script, well-paced, overall very entertaining.",
+    "reviewBody": "Hellboy is a well-balanced and very well-paced movie that avoids tiresome action movie content (mostly).\n\nScript: Very efficient. The snappy-attitude lines are allowable because of Hellboy\u0027s partially juvenile personality.\n\nActing: I credit Pearlman for presenting a complete character without being gabby and coy. Well-done. Almost all of the other significant characters are equally well-presented by their respective actors, save for one. del Toro certainly dropped the ball in writing/directing that character (though I won\u0027t mention who so as not to give anything away). He messed up only one character, and I forgive him. Nobody\u0027s perfect.\n\nCasting: Appropriate.\n\nPace/balance: The movie reminded me of X2 in this respect. It moved well, didn\u0027t get stalled anywhere, and both the action and drama were moderated with smooth transitions between each.\n\nFor comparison, Spiderman was good but overacted, X2 was good but with a few eye-rolling moments.\n\nOverall, I found this movie provided high entertainment value. B+",
+    "reviewRating": {
+      "@type": "Rating",
+      "worstRating": "1",
+      "bestRating": "10",
+      "ratingValue": "8"
+    }
+  },
+  "duration": "PT2H2M",
+  "trailer": {
+    "@type": "VideoObject",
+    "name": "Hellboy",
+    "embedUrl": "/video/imdb/vi2603989529",
+    "thumbnail": {
+      "@type": "ImageObject",
+      "contentUrl": "https://m.media-amazon.com/images/M/MV5BZWZjMjYxYzUtNmFkNi00ZmU0LTlhMDgtMWJjNTRmNTAyZmEzXkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg"
+    },
+    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZWZjMjYxYzUtNmFkNi00ZmU0LTlhMDgtMWJjNTRmNTAyZmEzXkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg",
+    "description": "Trailer 1",
+    "uploadDate": "2018-12-20T17:06:51Z"
+  }
+}
+
+
