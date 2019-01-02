@@ -1,0 +1,100 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Movie",
+  "url": "/title/tt0448115/",
+  "name": "Shazam!",
+  "image": "https://m.media-amazon.com/images/M/MV5BMjIyNTkwODY1OF5BMl5BanBnXkFtZTgwMTUyMTA5NjM@._V1_.jpg",
+  "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "actor": [
+    {
+      "@type": "Person",
+      "url": "/name/nm1157048/",
+      "name": "Zachary Levi"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0835016/",
+      "name": "Mark Strong"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0005023/",
+      "name": "Djimon Hounsou"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm1218924/",
+      "name": "Michelle Borth"
+    }
+  ],
+  "director": {
+    "@type": "Person",
+    "url": "/name/nm2497546/",
+    "name": "David F. Sandberg"
+  },
+  "creator": [
+    {
+      "@type": "Person",
+      "url": "/name/nm2849655/",
+      "name": "Henry Gayden"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm2849655/",
+      "name": "Henry Gayden"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0501359/",
+      "name": "Darren Lemke"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm1791910/",
+      "name": "Bill Parker"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm1304148/",
+      "name": "C.C. Beck"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0026840/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0283444/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0038332/"
+    },
+    {
+      "@type": "Organization",
+      "url": "/company/co0046718/"
+    }
+  ],
+  "description": "Shazam! is a movie starring Zachary Levi, Mark Strong, and Djimon Hounsou. We all have a superhero inside us, it just takes a bit of magic to bring it out. In Billy Batson\u0027s case, by shouting out one word - SHAZAM! - this streetwise...",
+  "datePublished": "2019-04-03",
+  "keywords": "origin of hero,shazam,superhero,dc extended universe,based on comic book",
+  "trailer": {
+    "@type": "VideoObject",
+    "name": "Official Teaser Trailer",
+    "embedUrl": "/video/imdb/vi1992801049",
+    "thumbnail": {
+      "@type": "ImageObject",
+      "contentUrl": "https://m.media-amazon.com/images/M/MV5BZDM5ZWJiOGYtZDlhZS00MTMzLTlmYTQtYzllNThlODNlYzZlXkEyXkFqcGdeQXRzdGFzaWVr._V1_.jpg"
+    },
+    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZDM5ZWJiOGYtZDlhZS00MTMzLTlmYTQtYzllNThlODNlYzZlXkEyXkFqcGdeQXRzdGFzaWVr._V1_.jpg",
+    "description": "David F. Sandberg (“Annabelle: Creation”) directs New Line Cinema’s “Shazam!,” the origin story that stars Zachary Levi (TV’s “Chuck”) as the titular DC Super Hero, along with Asher Angel (TV’s “Andi Mack”) as Billy Batson, and Mark Strong (the “Kingsman” movies) in the role of Super-Villain Dr. Thaddeus Sivana. Peter Safran (upcoming “Aquaman,” “The Conjuring” and “Annabelle” films) serves as the film’s producer.",
+    "uploadDate": "2018-07-21T18:58:58Z"
+  }
+}
+
+
