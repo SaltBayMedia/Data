@@ -1,6 +1,7 @@
 {
   "@context": {
     "@vocab": "http://schema.org/",
+    "imdb_title": "https://www.imdb.com/title/",
     "sbm": "http://schema.saltbaymedia.org/ontology/v1/",
     "id": "http://data.saltbaymedia.org/id/"
   },
@@ -31,7 +32,7 @@
             {
               "@type": "Rating",
               "name": "Fermat's Room",
-              "itemReviewed": { "@id": "/title/tt1016301/" },
+              "itemReviewed": { "@id": "imdb_title:tt1016301/" },
               "reviewAspect": "Movie",
               "ratingValue": 5,
               "ratingCount": 1,
@@ -44,7 +45,7 @@
             {
               "@type": "Rating",
               "name": "Cube",
-              "itemReviewed": { "@id": "/title/tt0123755/" },
+              "itemReviewed": { "@id": "imdb_title:tt0123755/" },
               "reviewAspect": "Movie",
               "ratingValue": 5,
               "ratingCount": 1,
@@ -72,7 +73,7 @@
             {
               "@type": "Rating",
               "name": "Indiana Jones and the Temple of Doom",
-              "itemReviewed": { "@id": "/title/tt0087469/" },
+              "itemReviewed": { "@id": "imdb_title:tt0087469/" },
               "reviewAspect": "Clip",
               "ratingValue": 2,
               "ratingCount": 1,
@@ -85,7 +86,7 @@
             {
               "@type": "Rating",
               "name": "Star Wars: Episode IV - A New Hope",
-              "itemReviewed": { "@id": "/title/tt0076759/" },
+              "itemReviewed": { "@id": "imdb_title:tt0076759/" },
               "reviewAspect": "Clip",
               "ratingValue": 1,
               "ratingCount": 1,
@@ -113,7 +114,7 @@
             {
               "@type": "Rating",
               "name": "Saw",
-              "itemReviewed": { "@id": "/title/tt0387564/" },
+              "itemReviewed": { "@id": "imdb_title:tt0387564/" },
               "reviewAspect": "Movie",
               "ratingValue": 3,
               "ratingCount": 1,
@@ -126,7 +127,7 @@
             {
               "@type": "Rating",
               "name": "Labyrinth",
-              "itemReviewed": { "@id": "/title/tt0091369/" },
+              "itemReviewed": { "@id": "imdb_title:tt0091369/" },
               "reviewAspect": "Movie",
               "ratingValue": 3,
               "ratingCount": 1,
@@ -139,7 +140,7 @@
             {
               "@type": "Rating",
               "name": "Goonies",
-              "itemReviewed": { "@id": "/title/tt0089218/" },
+              "itemReviewed": { "@id": "imdb_title:tt0089218/" },
               "reviewAspect": "Movie",
               "ratingValue": 3,
               "ratingCount": 1,
