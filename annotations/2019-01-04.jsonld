@@ -12,7 +12,7 @@
       "name": "Escape Room",
       "identifier": {
         "@type": "PropertyValue",
-        "propertyID": "IMDb",
+        "propertyID": "https://www.imdb.com",
         "value": "/title/tt1016301/"
       },
       "sbm:relatedWork": [
@@ -21,7 +21,7 @@
           "name": "Escape Room - related by the keyword 'escape room'",
           "category": {
             "@type": "PropertyValue",
-            "propertyID": "Keyword",
+            "propertyID": "https://schema.org/keywords",
             "value": {
               "@type": "StructuredValue",
               "name": "escape room",
@@ -62,7 +62,7 @@
           "name": "Escape Room - related by the keyword 'shrinking room'",
           "category": {
             "@type": "PropertyValue",
-            "propertyID": "Keyword",
+            "propertyID": "https://schema.org/keywords",
             "value": {
               "@type": "StructuredValue",
               "name": "shrinking room",
@@ -103,7 +103,7 @@
           "name": "Escape Room - related by the keyword 'trap'",
           "category": {
             "@type": "PropertyValue",
-            "propertyID": "Keyword",
+            "propertyID": "https://schema.org/keywords",
             "value": {
               "@type": "StructuredValue",
               "name": "trap",
