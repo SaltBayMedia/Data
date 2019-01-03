@@ -2,6 +2,7 @@
   "@context": {
     "@vocab": "http://schema.org/",
     "sbm": "http://schema.saltbaymedia.org/ontology/v1/",
+    "imdb_title": "https://www.imdb.com/title/",
     "id": "http://data.saltbaymedia.org/id/"
   },
   "@graph": [
@@ -15,7 +16,7 @@
         "value": "/title/tt1987680/"
       },
       "sbm:relatedWork": [],
-      "sbm:remakeOf": "/title/tt1675434/"
+      "sbm:remakeOf": { "@id": "imdb_title:tt1675434/" }
     },
     {
       "@id": "id:Movie_Replicas_2018",
